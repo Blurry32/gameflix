@@ -1,2 +1,2 @@
 # gameflix
-Projeto de loja de jogos online
+Projeto de loja de jogos virtual
